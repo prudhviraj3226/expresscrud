@@ -6,6 +6,8 @@ const expressJoi = require('express-joi-validation').createValidator({})
 
 //bring in mongoose dependency that we installed
 const mongoose = require('mongoose');
+
+// This is Dummy url
 //bring in mongo uri from mlab
 // const mongoURI =
 // 'mongodb://johndoe:Loyaltyislife2@ds217452.mlab.com:17452/mymongodb';
